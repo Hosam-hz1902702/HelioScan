@@ -1,11 +1,11 @@
-#Sat Mar 09 17:31:00 AST 2024
-base.0=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
-base.2=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.3=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.4=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
-base.5=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.6=/Users/khalidabdullah/Desktop/helio_scan/build/app/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Sun Mar 10 18:54:04 AST 2024
+base.0=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.5=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.6=C\:\\Users\\DELL\\Desktop\\HelioScan\\helio_scan\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex
