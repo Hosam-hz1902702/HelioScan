@@ -481,21 +481,21 @@ Widget build(BuildContext context) {
   );
 }
 
-Future<DocumentSnapshot> _getBallotTrackerDocument() async {
-  if (widget.election != null) {
-    final ballotTracker = widget.election!.ballotTracker;
-    if (ballotTracker != null) {
-      return await ballotTracker.get();
-    }
-  } else {
-    // Fetch the document reference using the ID
-    final String ballotTrackerID = qrCodeResultList.first;
-    final DocumentReference ballotTrackerRef = BallotRecord.collection.doc(ballotTrackerID);
-    return await ballotTrackerRef.get();
-  }
-  // Return a default value or handle the case when ballotTracker is null
-  return Future.error('Ballot tracker not found');
-}
+// Future<DocumentSnapshot> _getBallotTrackerDocument() async {
+//   if (widget.election != null) {
+//     final ballotTracker = widget.election!.ballotTracker;
+//     if (ballotTracker != null) {
+//       return await ballotTracker.get();
+//     }
+//   } else {
+//     // Fetch the document reference using the ID
+//     final String ballotTrackerID = qrCodeResultList.first;
+//     final DocumentReference ballotTrackerRef = BallotRecord.collection.doc(ballotTrackerID);
+//     return await ballotTrackerRef.get();
+//   }
+//   // Return a default value or handle the case when ballotTracker is null
+//   return Future.error('Ballot tracker not found');
+// }
 
 
 
