@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">137838190489</string>
+    <string name="google_api_key" translatable="false">AIzaSyDs1wQeBWxxozjbwg0Cg1hrMSBWVAJKMW8</string>
+    <string name="google_app_id" translatable="false">1:137838190489:android:e3bc4ab99eb83bcc7cbd08</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDs1wQeBWxxozjbwg0Cg1hrMSBWVAJKMW8</string>
+    <string name="google_storage_bucket" translatable="false">helioscan-helios.appspot.com</string>
+    <string name="project_id" translatable="false">helioscan-helios</string>
+</resources>

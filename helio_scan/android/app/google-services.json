@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137838190489",
+    "project_id": "helioscan-helios",
+    "storage_bucket": "helioscan-helios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137838190489:android:e3bc4ab99eb83bcc7cbd08",
+        "android_client_info": {
+          "package_name": "com.mycompany.helioscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1wQeBWxxozjbwg0Cg1hrMSBWVAJKMW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
